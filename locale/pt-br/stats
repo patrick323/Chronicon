@@ -124,7 +124,7 @@ stat_puzzles="Puzzles Resolvidos"
 stat_secrets="Segredos Encontrados"
 stat_challenges="Áreas de Desafio Concluídas"
 stat_unstable="Entradas em Dimensões Instáveis"
-stat_gambles="Vezes Apostadas"
+stat_gambles="Vezes Apostadas" 
 stat_time="Tempo Total Jogado"
 [STAT SECTIONS]
 stat_sect_base="*Estatísticas básicas*"
